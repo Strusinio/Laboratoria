@@ -1,0 +1,5 @@
+﻿  lab2zad5.2.cpp
+c:\users\patryk\documents\visual studio 2015\projects\lab1\lab2zad5.2\lab2zad5.2\lab2zad5.2.cpp(10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\patryk\documents\visual studio 2015\projects\lab1\lab2zad5.2\lab2zad5.2\lab2zad5.2.cpp(13): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  lab2zad5.2.vcxproj -> C:\Users\Patryk\Documents\Visual Studio 2015\Projects\lab1\lab2zad5.2\Debug\lab2zad5.2.exe
+  lab2zad5.2.vcxproj -> C:\Users\Patryk\Documents\Visual Studio 2015\Projects\lab1\lab2zad5.2\Debug\lab2zad5.2.pdb (Full PDB)
