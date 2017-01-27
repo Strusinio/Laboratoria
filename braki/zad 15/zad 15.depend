@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485460462 source:c:\users\marcin\documents\miss\zad 15\main.cpp
+	<iostream>
+	<math.h>
+	<cmath>
+
